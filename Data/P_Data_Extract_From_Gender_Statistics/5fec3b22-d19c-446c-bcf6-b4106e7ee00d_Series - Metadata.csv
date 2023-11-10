@@ -1,0 +1,335 @@
+Series Name,Series Code,Country Name,Country Code,2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021]
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Benin,BEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,South Africa,ZAF,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Central African Republic,CAF,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Kenya,KEN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Tanzania,TZA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Rwanda,RWA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Namibia,NAM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Botswana,BWA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Zimbabwe,ZWE,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Mozambique,MOZ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Eswatini,SWZ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Lesotho,LSO,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Angola,AGO,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,"Congo, Dem. Rep.",COD,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,"Congo, Rep.",COG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Burundi,BDI,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Uganda,UGA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Chad,TCD,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Mauritania,MRT,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Mauritius,MUS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Cameroon,CMR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Equatorial Guinea,GNQ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Guinea-Bissau,GNB,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Guinea,GIN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Mali,MLI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Somalia,SOM,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Sudan,SDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,South Sudan,SSD,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Ethiopia,ETH,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,"Egypt, Arab Rep.",EGY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Liberia,LBR,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Libya,LBY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Tunisia,TUN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Algeria,DZA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Morocco,MAR,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Senegal,SEN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,"Gambia, The",GMB,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Ghana,GHA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Togo,TGO,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Cote d'Ivoire,CIV,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Djibouti,DJI,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Eritrea,ERI,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Sierra Leone,SLE,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Niger,NER,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Nigeria,NGA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Burkina Faso,BFA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Sao Tome and Principe,STP,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Seychelles,SYC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Madagascar,MDG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Gabon,GAB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Malawi,MWI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Zambia,ZMB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Comoros,COM,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Benin,BEN,0,0,0,0,0,25,33,40,49,52,45,51,58,65,65,80,83,91,98
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,South Africa,ZAF,1,2,4,7,11,15,21,27,35,43,49,54,59,65,71,74,77,78,78
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Central African Republic,CAF,0,0,1,2,5,9,11,13,13,16,15,25,29,44,50,54,64,68,76
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Kenya,KEN,0,2,4,9,13,17,24,30,43,47,51,59,69,78,84,81,82,82,82
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Tanzania,TZA,0,0,1,4,10,12,15,21,22,35,41,51,56,62,68,75,83,91,93
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Rwanda,RWA,0,3,10,18,24,32,39,45,49,57,64,71,77,84,87,89,91,93,96
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Namibia,NAM,0,3,8,15,27,33,36,44,52,57,61,59,65,69,77,80,88,89,95
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Botswana,BWA,6,12,18,25,29,36,47,53,57,66,69,72,78,83,85,92,92,94,95
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Zimbabwe,ZWE,0,1,2,5,8,12,18,33,45,51,54,64,69,75,84,88,91,93,94
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Mozambique,MOZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Eswatini,SWZ,2,3,5,9,15,19,24,34,37,41,46,57,67,76,85,86,91,96,94
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Lesotho,LSO,1,1,4,7,15,20,31,37,37,41,45,49,54,63,72,73,78,85,85
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Angola,AGO,0,0,0,2,4,6,7,9,11,12,21,27,28,26,28,31,34,41,47
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,"Congo, Dem. Rep.",COD,0,1,2,3,4,5,7,9,11,15,19,24,28,34,48,57,67,78,90
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,"Congo, Rep.",COG,0,0,3,3,5,10,12,14,20,19,21,20,21,22,22,23,23,23,22
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Burundi,BDI,1,4,7,9,13,18,22,30,35,44,49,55,62,77,89,95,98,98,98
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Uganda,UGA,2,5,9,9,11,15,17,21,24,36,51,61,65,71,79,83,85,86,87
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Chad,TCD,0,1,2,6,9,20,29,37,36,40,43,47,50,54,58,66,73,80,86
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Mauritania,MRT,0,1,4,8,13,17,22,25,23,26,30,31,33,33,40,39,40,41,42
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Mauritius,MUS,1,1,1,1,2,2,2,3,4,6,8,10,11,12,14,15,17,18,19
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Cameroon,CMR,0,3,4,5,8,11,14,16,19,27,29,32,37,45,56,62,69,76,84
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Equatorial Guinea,GNQ,0,1,3,5,9,11,11,8,13,18,37,34,34,42,54,53,52,56,55
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Guinea-Bissau,GNB,0,0,0,1,3,6,8,11,14,22,23,27,31,38,38,52,53,53,54
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Guinea,GIN,0,1,2,5,5,9,14,19,22,30,29,33,34,38,36,48,57,50,59
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Mali,MLI,1,4,4,10,15,21,26,30,40,38,39,41,45,48,53,58,58,69,67
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Somalia,SOM,0,0,0,1,2,3,5,8,12,16,23,25,31,37,43,47,53,57,63
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Sudan,SDN,0,0,0,0,0,3,5,4,6,7,8,10,11,15,20,23,25,28,27
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,South Sudan,SSD,0,0,0,0,0,0,2,2,3,4,6,10,17,16,18,23,24,28,30
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Ethiopia,ETH,0,1,3,8,16,23,31,38,45,46,52,59,65,69,72,75,78,81,82
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,"Egypt, Arab Rep.",EGY,0,0,0,1,1,1,1,4,5,6,7,10,11,15,20,26,27,26,30
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Liberia,LBR,0,0,0,3,4,5,8,12,16,17,22,24,25,29,45,50,55,66,71
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Libya,LBY,5,7,9,9,12,16,20,25,26,29,30,34,39,41,42,48,47,46,45
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Tunisia,TUN,9,8,8,8,7,7,10,9,9,11,12,15,15,17,18,20,23,25,25
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Algeria,DZA,7,6,9,11,14,14,28,41,43,47,59,68,72,78,79,82,83,81,82
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Morocco,MAR,4,6,7,8,9,12,14,16,20,27,32,36,49,57,57,64,69,73,78
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Senegal,SEN,0,0,0,0,26,31,35,40,43,40,44,52,57,70,76,87,92,95,97
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,"Gambia, The",GMB,0,0,2,2,3,5,6,11,18,22,22,24,26,31,36,38,41,40,42
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Ghana,GHA,0,1,1,2,4,7,9,13,20,24,26,29,32,35,38,40,53,70,79
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Togo,TGO,1,2,5,6,7,10,15,23,27,34,39,42,48,58,69,70,80,86,86
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Cote d'Ivoire,CIV,1,1,4,6,8,13,18,20,24,28,31,37,42,52,64,71,75,80,84
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Djibouti,DJI,..,1,2,4,5,7,8,9,11,14,16,21,25,30,38,42,28,31,29
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Eritrea,ERI,0,0,2,5,11,17,21,29,36,41,47,54,59,61,69,71,72,74,74
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Sierra Leone,SLE,0,0,1,1,2,4,7,10,14,17,19,22,27,34,45,52,60,68,82
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Niger,NER,0,0,2,5,8,9,22,26,33,39,47,42,49,59,69,76,79,83,93
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Nigeria,NGA,1,2,3,7,8,15,19,24,27,39,45,49,53,59,61,62,69,86,97
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Burkina Faso,BFA,2,4,8,14,17,23,29,35,48,51,56,63,70,77,89,83,94,93,98
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Sao Tome and Principe,STP,0,0,3,5,8,12,17,23,29,35,45,55,68,77,94,98,98,98,98
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Seychelles,SYC,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Madagascar,MDG,0,1,1,2,2,2,2,2,3,2,3,3,5,5,6,8,11,11,16
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Gabon,GAB,1,4,9,10,12,15,19,20,23,31,41,43,44,46,47,48,50,52,56
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Malawi,MWI,0,1,4,8,13,20,26,32,41,52,59,66,71,79,85,91,92,96,98
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Zambia,ZMB,2,4,6,10,18,25,30,35,41,43,49,58,65,67,71,79,86,92,93
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Comoros,COM,0,0,0,0,0,0,0,17,18,22,23,25,29,40,42,45,57,60,58
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Benin,BEN,0,0,0,0,0,16,21,25,31,34,30,35,41,46,47,45,60,62,67
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,South Africa,ZAF,1,1,3,4,7,11,15,21,28,35,41,45,50,56,61,65,67,68,68
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Central African Republic,CAF,0,0,1,2,5,10,11,13,13,16,19,26,31,25,31,35,42,49,54
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Kenya,KEN,0,2,6,12,17,23,31,38,37,40,42,47,56,62,69,68,70,72,74
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Tanzania,TZA,0,0,1,4,11,12,16,15,17,25,28,32,37,42,48,55,66,74,77
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Rwanda,RWA,0,3,9,15,20,28,34,40,45,51,56,61,68,77,80,83,87,90,92
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Namibia,NAM,0,3,7,15,23,30,32,37,44,48,54,53,62,55,64,70,76,79,85
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Botswana,BWA,7,14,21,27,32,39,41,46,51,54,61,61,66,70,74,77,80,84,87
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Zimbabwe,ZWE,0,1,2,5,8,12,18,26,32,38,52,53,59,63,74,79,84,90,91
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Mozambique,MOZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Eswatini,SWZ,2,3,7,13,15,19,23,32,36,40,47,55,62,69,75,77,83,88,85
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Lesotho,LSO,0,1,3,7,16,21,25,31,33,34,37,39,47,56,61,65,70,73,76
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Angola,AGO,0,0,0,2,4,6,8,10,12,13,15,18,22,24,28,30,28,31,36
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,"Congo, Dem. Rep.",COD,0,1,2,3,4,4,7,8,8,11,12,15,18,27,34,44,58,70,84
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,"Congo, Rep.",COG,1,0,5,6,8,16,20,24,17,19,21,20,20,21,21,21,22,22,27
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Burundi,BDI,1,4,6,8,12,16,20,26,31,29,33,37,44,55,64,73,82,84,85
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Uganda,UGA,2,7,12,11,14,19,21,26,29,32,37,47,50,57,66,71,74,77,78
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Chad,TCD,0,1,2,7,9,21,26,31,31,34,34,35,36,38,39,48,56,64,68
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Mauritania,MRT,0,1,2,4,7,9,12,13,18,17,19,20,23,26,29,29,31,34,38
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Mauritius,MUS,1,1,2,3,4,5,6,7,16,17,19,25,26,25,27,27,27,29,31
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Cameroon,CMR,0,4,7,8,13,16,20,22,26,22,23,25,29,36,44,50,58,66,76
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Equatorial Guinea,GNQ,0,0,1,2,4,5,13,6,9,12,15,16,10,15,20,19,21,22,25
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Guinea-Bissau,GNB,0,0,0,1,3,7,10,13,16,13,13,16,18,23,21,19,30,31,32
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Guinea,GIN,1,1,3,7,8,14,22,27,31,28,27,29,30,30,42,35,42,45,47
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Mali,MLI,1,3,2,7,10,14,17,20,19,18,17,19,22,25,27,31,30,37,38
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Somalia,SOM,0,0,0,1,2,3,4,7,8,11,12,15,20,25,29,34,38,42,45
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Sudan,SDN,0,0,0,0,0,3,6,7,7,7,10,11,12,16,21,23,29,30,27
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,South Sudan,SSD,0,0,0,0,0,0,2,2,2,3,5,6,9,10,15,18,21,25,26
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Ethiopia,ETH,0,1,3,9,17,24,32,39,46,53,55,62,63,71,73,75,80,83,81
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,"Egypt, Arab Rep.",EGY,0,0,0,12,9,11,11,12,12,13,14,17,18,22,28,34,39,43,46
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Liberia,LBR,0,0,0,3,4,6,8,12,15,12,12,14,17,15,18,28,31,39,50
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Libya,LBY,17,23,25,28,31,35,41,44,45,47,47,50,54,56,56,61,43,39,39
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Tunisia,TUN,13,13,14,14,14,15,16,18,19,14,16,17,19,22,21,24,28,31,32
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Algeria,DZA,14,18,21,30,27,27,26,33,35,41,47,53,61,68,71,75,78,78,81
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Morocco,MAR,5,7,8,9,11,14,15,18,22,26,31,35,38,45,52,61,67,73,81
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Senegal,SEN,0,0,0,0,10,12,15,17,19,19,25,29,35,37,43,50,56,61,63
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,"Gambia, The",GMB,0,0,2,2,3,4,5,10,11,13,13,13,13,16,15,17,18,19,19
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Ghana,GHA,0,1,2,3,6,10,14,18,23,25,26,28,19,21,24,26,37,51,60
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Togo,TGO,1,2,6,7,8,12,18,28,31,22,25,27,33,36,38,49,57,62,63
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Cote d'Ivoire,CIV,0,1,2,4,5,8,12,13,17,19,22,25,29,34,40,49,57,61,64
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Djibouti,DJI,..,1,2,4,5,7,8,9,11,14,16,18,26,31,31,36,32,36,33
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Eritrea,ERI,0,0,3,8,13,19,26,31,36,44,50,56,62,67,61,61,63,70,67
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Sierra Leone,SLE,0,0,1,1,2,3,6,9,13,9,9,9,15,17,22,28,33,38,47
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Niger,NER,0,0,2,4,6,7,17,19,26,31,31,30,34,41,53,55,57,60,70
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Nigeria,NGA,1,3,4,8,9,16,21,19,22,22,28,32,36,41,43,46,54,75,94
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Burkina Faso,BFA,1,4,8,13,16,21,26,32,27,29,32,35,41,44,48,46,55,63,63
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Sao Tome and Principe,STP,0,0,2,3,4,7,10,14,18,24,24,30,44,55,68,75,79,81,86
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Seychelles,SYC,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Madagascar,MDG,0,1,1,2,2,2,2,2,3,2,2,3,4,5,7,9,11,12,15
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Gabon,GAB,3,8,18,20,24,27,33,35,39,36,47,50,51,51,52,53,54,55,57
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Malawi,MWI,0,1,3,6,10,16,20,25,31,37,42,48,52,59,67,73,74,77,83
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Zambia,ZMB,2,4,6,9,17,23,29,34,40,47,52,55,62,64,65,72,80,88,89
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Comoros,COM,0,0,0,0,0,0,0,12,14,17,20,22,34,26,33,43,53,58,67
+Borrowed any money (% age 15+),borrow.any,Benin,BEN,..,..,..,..,..,..,..,..,..,..,..,39.68,..,..,46.28,..,..,..,47.18
+Borrowed any money (% age 15+),borrow.any,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..,..,86.13,..,..,53.11,..,..,..,60.35
+Borrowed any money (% age 15+),borrow.any,Central African Republic,CAF,..,..,..,..,..,..,..,..,..,..,..,..,..,..,36.66,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Kenya,KEN,..,..,..,..,..,..,..,..,..,..,..,79.4,..,..,64.37,..,..,..,76.16
+Borrowed any money (% age 15+),borrow.any,Tanzania,TZA,..,..,..,..,..,..,..,..,..,..,..,55.74,..,..,41.23,..,..,..,46.97
+Borrowed any money (% age 15+),borrow.any,Rwanda,RWA,..,..,..,..,..,..,..,..,..,..,..,51.42,..,..,65.74,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Namibia,NAM,..,..,..,..,..,..,..,..,..,..,..,48.53,..,..,63.29,..,..,..,67.95
+Borrowed any money (% age 15+),borrow.any,Botswana,BWA,..,..,..,..,..,..,..,..,..,..,..,70,..,..,37.49,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Zimbabwe,ZWE,..,..,..,..,..,..,..,..,..,..,..,62.51,..,..,47.54,..,..,..,53.11
+Borrowed any money (% age 15+),borrow.any,Mozambique,MOZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,50.16,..,..,..,44.67
+Borrowed any money (% age 15+),borrow.any,Eswatini,SWZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Lesotho,LSO,..,..,..,..,..,..,..,..,..,..,..,..,..,..,48.01,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Angola,AGO,..,..,..,..,..,..,..,..,..,..,..,30.84,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,"Congo, Dem. Rep.",COD,..,..,..,..,..,..,..,..,..,..,..,57.08,..,..,34.85,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,"Congo, Rep.",COG,..,..,..,..,..,..,..,..,..,..,..,42.2,..,..,40.4,..,..,..,41.58
+Borrowed any money (% age 15+),borrow.any,Burundi,BDI,..,..,..,..,..,..,..,..,..,..,..,60.41,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Uganda,UGA,..,..,..,..,..,..,..,..,..,..,..,78.97,..,..,66.13,..,..,..,75.13
+Borrowed any money (% age 15+),borrow.any,Chad,TCD,..,..,..,..,..,..,..,..,..,..,..,41.02,..,..,38.13,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Mauritania,MRT,..,..,..,..,..,..,..,..,..,..,..,47.17,..,..,44.25,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Mauritius,MUS,..,..,..,..,..,..,..,..,..,..,..,35.54,..,..,37.55,..,..,..,38.52
+Borrowed any money (% age 15+),borrow.any,Cameroon,CMR,..,..,..,..,..,..,..,..,..,..,..,56.69,..,..,52.7,..,..,..,58.56
+Borrowed any money (% age 15+),borrow.any,Equatorial Guinea,GNQ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Guinea-Bissau,GNB,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Guinea,GIN,..,..,..,..,..,..,..,..,..,..,..,52.52,..,..,39.62,..,..,..,56.96
+Borrowed any money (% age 15+),borrow.any,Mali,MLI,..,..,..,..,..,..,..,..,..,..,..,41.73,..,..,43.47,..,..,..,48.64
+Borrowed any money (% age 15+),borrow.any,Somalia,SOM,..,..,..,..,..,..,..,..,..,..,..,56.98,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Sudan,SDN,..,..,..,..,..,..,..,..,..,..,..,45.5,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,South Sudan,SSD,..,..,..,..,..,..,..,..,..,..,..,..,..,..,38.47,..,..,..,36.92
+Borrowed any money (% age 15+),borrow.any,Ethiopia,ETH,..,..,..,..,..,..,..,..,..,..,..,43.52,..,..,41.22,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,"Egypt, Arab Rep.",EGY,..,..,..,..,..,..,..,..,..,..,..,35.15,..,..,49.06,..,..,..,46.44
+Borrowed any money (% age 15+),borrow.any,Liberia,LBR,..,..,..,..,..,..,..,..,..,..,..,..,..,..,55.57,..,..,..,60.45
+Borrowed any money (% age 15+),borrow.any,Libya,LBY,..,..,..,..,..,..,..,..,..,..,..,..,..,..,58.02,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Tunisia,TUN,..,..,..,..,..,..,..,..,..,..,..,37.22,..,..,45.09,..,..,..,50.58
+Borrowed any money (% age 15+),borrow.any,Algeria,DZA,..,..,..,..,..,..,..,..,..,..,..,25.79,..,..,28.87,..,..,..,37.59
+Borrowed any money (% age 15+),borrow.any,Morocco,MAR,..,..,..,..,..,..,..,..,..,..,..,..,..,..,26.47,..,..,..,57.04
+Borrowed any money (% age 15+),borrow.any,Senegal,SEN,..,..,..,..,..,..,..,..,..,..,..,56.72,..,..,45.03,..,..,..,51.78
+Borrowed any money (% age 15+),borrow.any,"Gambia, The",GMB,..,..,..,..,..,..,..,..,..,..,..,..,..,..,33.79,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Ghana,GHA,..,..,..,..,..,..,..,..,..,..,..,36.66,..,..,40.27,..,..,..,52.21
+Borrowed any money (% age 15+),borrow.any,Togo,TGO,..,..,..,..,..,..,..,..,..,..,..,28.62,..,..,40.28,..,..,..,49.08
+Borrowed any money (% age 15+),borrow.any,Cote d'Ivoire,CIV,..,..,..,..,..,..,..,..,..,..,..,48.69,..,..,39.17,..,..,..,46.17
+Borrowed any money (% age 15+),borrow.any,Djibouti,DJI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Eritrea,ERI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Sierra Leone,SLE,..,..,..,..,..,..,..,..,..,..,..,57.56,..,..,49.02,..,..,..,53.75
+Borrowed any money (% age 15+),borrow.any,Niger,NER,..,..,..,..,..,..,..,..,..,..,..,70.91,..,..,52.05,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Nigeria,NGA,..,..,..,..,..,..,..,..,..,..,..,45.72,..,..,39.56,..,..,..,54.41
+Borrowed any money (% age 15+),borrow.any,Burkina Faso,BFA,..,..,..,..,..,..,..,..,..,..,..,46.76,..,..,52.33,..,..,..,48.37
+Borrowed any money (% age 15+),borrow.any,Sao Tome and Principe,STP,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Seychelles,SYC,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Madagascar,MDG,..,..,..,..,..,..,..,..,..,..,..,57.33,..,..,47.91,..,..,..,..
+Borrowed any money (% age 15+),borrow.any,Gabon,GAB,..,..,..,..,..,..,..,..,..,..,..,39.72,..,..,55.96,..,..,..,57.08
+Borrowed any money (% age 15+),borrow.any,Malawi,MWI,..,..,..,..,..,..,..,..,..,..,..,66.54,..,..,52,..,..,..,52.88
+Borrowed any money (% age 15+),borrow.any,Zambia,ZMB,..,..,..,..,..,..,..,..,..,..,..,68.13,..,..,48.75,..,..,..,59.32
+Borrowed any money (% age 15+),borrow.any,Comoros,COM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Benin,BEN,..,..,..,..,..,..,..,..,..,..,..,39.24,..,..,46.88,..,..,..,45.51
+"Borrowed any money, female (% age 15+)",borrow.any.1,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..,..,87.02,..,..,51.1,..,..,..,63.11
+"Borrowed any money, female (% age 15+)",borrow.any.1,Central African Republic,CAF,..,..,..,..,..,..,..,..,..,..,..,..,..,..,35.35,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Kenya,KEN,..,..,..,..,..,..,..,..,..,..,..,78.6,..,..,61.69,..,..,..,72.72
+"Borrowed any money, female (% age 15+)",borrow.any.1,Tanzania,TZA,..,..,..,..,..,..,..,..,..,..,..,55.06,..,..,37.61,..,..,..,42.94
+"Borrowed any money, female (% age 15+)",borrow.any.1,Rwanda,RWA,..,..,..,..,..,..,..,..,..,..,..,48.79,..,..,62.54,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Namibia,NAM,..,..,..,..,..,..,..,..,..,..,..,46.37,..,..,58.21,..,..,..,66.91
+"Borrowed any money, female (% age 15+)",borrow.any.1,Botswana,BWA,..,..,..,..,..,..,..,..,..,..,..,68.69,..,..,32.12,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Zimbabwe,ZWE,..,..,..,..,..,..,..,..,..,..,..,60.58,..,..,46.11,..,..,..,48.87
+"Borrowed any money, female (% age 15+)",borrow.any.1,Mozambique,MOZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,47.71,..,..,..,40.19
+"Borrowed any money, female (% age 15+)",borrow.any.1,Eswatini,SWZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Lesotho,LSO,..,..,..,..,..,..,..,..,..,..,..,..,..,..,49.26,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Angola,AGO,..,..,..,..,..,..,..,..,..,..,..,29.77,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,"Congo, Dem. Rep.",COD,..,..,..,..,..,..,..,..,..,..,..,58.78,..,..,30.8,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,"Congo, Rep.",COG,..,..,..,..,..,..,..,..,..,..,..,41.32,..,..,36.9,..,..,..,37.99
+"Borrowed any money, female (% age 15+)",borrow.any.1,Burundi,BDI,..,..,..,..,..,..,..,..,..,..,..,60.96,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Uganda,UGA,..,..,..,..,..,..,..,..,..,..,..,75,..,..,63.82,..,..,..,77.8
+"Borrowed any money, female (% age 15+)",borrow.any.1,Chad,TCD,..,..,..,..,..,..,..,..,..,..,..,41.89,..,..,36.42,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Mauritania,MRT,..,..,..,..,..,..,..,..,..,..,..,44.57,..,..,38.79,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Mauritius,MUS,..,..,..,..,..,..,..,..,..,..,..,27.88,..,..,30.72,..,..,..,34.93
+"Borrowed any money, female (% age 15+)",borrow.any.1,Cameroon,CMR,..,..,..,..,..,..,..,..,..,..,..,55.91,..,..,52.59,..,..,..,55.15
+"Borrowed any money, female (% age 15+)",borrow.any.1,Equatorial Guinea,GNQ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Guinea-Bissau,GNB,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Guinea,GIN,..,..,..,..,..,..,..,..,..,..,..,52.64,..,..,41.48,..,..,..,53.06
+"Borrowed any money, female (% age 15+)",borrow.any.1,Mali,MLI,..,..,..,..,..,..,..,..,..,..,..,39.12,..,..,40.95,..,..,..,47.52
+"Borrowed any money, female (% age 15+)",borrow.any.1,Somalia,SOM,..,..,..,..,..,..,..,..,..,..,..,54.13,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Sudan,SDN,..,..,..,..,..,..,..,..,..,..,..,41.45,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,South Sudan,SSD,..,..,..,..,..,..,..,..,..,..,..,..,..,..,33.43,..,..,..,36.15
+"Borrowed any money, female (% age 15+)",borrow.any.1,Ethiopia,ETH,..,..,..,..,..,..,..,..,..,..,..,42.92,..,..,35.96,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,"Egypt, Arab Rep.",EGY,..,..,..,..,..,..,..,..,..,..,..,35.97,..,..,46.06,..,..,..,45.92
+"Borrowed any money, female (% age 15+)",borrow.any.1,Liberia,LBR,..,..,..,..,..,..,..,..,..,..,..,..,..,..,53.33,..,..,..,57.52
+"Borrowed any money, female (% age 15+)",borrow.any.1,Libya,LBY,..,..,..,..,..,..,..,..,..,..,..,..,..,..,55.59,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Tunisia,TUN,..,..,..,..,..,..,..,..,..,..,..,31.9,..,..,36.87,..,..,..,47.51
+"Borrowed any money, female (% age 15+)",borrow.any.1,Algeria,DZA,..,..,..,..,..,..,..,..,..,..,..,25.35,..,..,25.71,..,..,..,36.07
+"Borrowed any money, female (% age 15+)",borrow.any.1,Morocco,MAR,..,..,..,..,..,..,..,..,..,..,..,..,..,..,23.85,..,..,..,53.62
+"Borrowed any money, female (% age 15+)",borrow.any.1,Senegal,SEN,..,..,..,..,..,..,..,..,..,..,..,54.88,..,..,44.43,..,..,..,56.3
+"Borrowed any money, female (% age 15+)",borrow.any.1,"Gambia, The",GMB,..,..,..,..,..,..,..,..,..,..,..,..,..,..,33.91,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Ghana,GHA,..,..,..,..,..,..,..,..,..,..,..,35.42,..,..,37.58,..,..,..,47.9
+"Borrowed any money, female (% age 15+)",borrow.any.1,Togo,TGO,..,..,..,..,..,..,..,..,..,..,..,30.2,..,..,37.19,..,..,..,49.3
+"Borrowed any money, female (% age 15+)",borrow.any.1,Cote d'Ivoire,CIV,..,..,..,..,..,..,..,..,..,..,..,43.13,..,..,38.72,..,..,..,41.31
+"Borrowed any money, female (% age 15+)",borrow.any.1,Djibouti,DJI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Eritrea,ERI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Sierra Leone,SLE,..,..,..,..,..,..,..,..,..,..,..,53.55,..,..,45.35,..,..,..,51.76
+"Borrowed any money, female (% age 15+)",borrow.any.1,Niger,NER,..,..,..,..,..,..,..,..,..,..,..,70.66,..,..,48.04,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Nigeria,NGA,..,..,..,..,..,..,..,..,..,..,..,44.55,..,..,38.73,..,..,..,51.92
+"Borrowed any money, female (% age 15+)",borrow.any.1,Burkina Faso,BFA,..,..,..,..,..,..,..,..,..,..,..,46.92,..,..,47.76,..,..,..,46.87
+"Borrowed any money, female (% age 15+)",borrow.any.1,Sao Tome and Principe,STP,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Seychelles,SYC,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Madagascar,MDG,..,..,..,..,..,..,..,..,..,..,..,56.38,..,..,47.51,..,..,..,..
+"Borrowed any money, female (% age 15+)",borrow.any.1,Gabon,GAB,..,..,..,..,..,..,..,..,..,..,..,38.54,..,..,54.69,..,..,..,50.5
+"Borrowed any money, female (% age 15+)",borrow.any.1,Malawi,MWI,..,..,..,..,..,..,..,..,..,..,..,68.07,..,..,50.18,..,..,..,52.61
+"Borrowed any money, female (% age 15+)",borrow.any.1,Zambia,ZMB,..,..,..,..,..,..,..,..,..,..,..,67.2,..,..,43.4,..,..,..,54.28
+"Borrowed any money, female (% age 15+)",borrow.any.1,Comoros,COM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Benin,BEN,..,..,..,..,..,..,..,..,..,..,..,40.14,..,..,45.66,..,..,..,49
+"Borrowed any money, male (% age 15+)",borrow.any.2,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..,..,85.14,..,..,55.25,..,..,..,57.55
+"Borrowed any money, male (% age 15+)",borrow.any.2,Central African Republic,CAF,..,..,..,..,..,..,..,..,..,..,..,..,..,..,38.08,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Kenya,KEN,..,..,..,..,..,..,..,..,..,..,..,80.3,..,..,67.37,..,..,..,79.79
+"Borrowed any money, male (% age 15+)",borrow.any.2,Tanzania,TZA,..,..,..,..,..,..,..,..,..,..,..,56.45,..,..,45,..,..,..,51.33
+"Borrowed any money, male (% age 15+)",borrow.any.2,Rwanda,RWA,..,..,..,..,..,..,..,..,..,..,..,54.1,..,..,69.35,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Namibia,NAM,..,..,..,..,..,..,..,..,..,..,..,50.92,..,..,69.14,..,..,..,69.14
+"Borrowed any money, male (% age 15+)",borrow.any.2,Botswana,BWA,..,..,..,..,..,..,..,..,..,..,..,71.32,..,..,44.04,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Zimbabwe,ZWE,..,..,..,..,..,..,..,..,..,..,..,64.53,..,..,49.09,..,..,..,57.6
+"Borrowed any money, male (% age 15+)",borrow.any.2,Mozambique,MOZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,52.77,..,..,..,49.43
+"Borrowed any money, male (% age 15+)",borrow.any.2,Eswatini,SWZ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Lesotho,LSO,..,..,..,..,..,..,..,..,..,..,..,..,..,..,46.66,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Angola,AGO,..,..,..,..,..,..,..,..,..,..,..,31.88,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,"Congo, Dem. Rep.",COD,..,..,..,..,..,..,..,..,..,..,..,55.35,..,..,38.79,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,"Congo, Rep.",COG,..,..,..,..,..,..,..,..,..,..,..,43.07,..,..,43.92,..,..,..,45.3
+"Borrowed any money, male (% age 15+)",borrow.any.2,Burundi,BDI,..,..,..,..,..,..,..,..,..,..,..,59.86,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Uganda,UGA,..,..,..,..,..,..,..,..,..,..,..,82.99,..,..,68.58,..,..,..,72.1
+"Borrowed any money, male (% age 15+)",borrow.any.2,Chad,TCD,..,..,..,..,..,..,..,..,..,..,..,40.07,..,..,39.92,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Mauritania,MRT,..,..,..,..,..,..,..,..,..,..,..,49.91,..,..,49.74,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Mauritius,MUS,..,..,..,..,..,..,..,..,..,..,..,43.78,..,..,44.71,..,..,..,42.4
+"Borrowed any money, male (% age 15+)",borrow.any.2,Cameroon,CMR,..,..,..,..,..,..,..,..,..,..,..,57.47,..,..,52.8,..,..,..,62.1
+"Borrowed any money, male (% age 15+)",borrow.any.2,Equatorial Guinea,GNQ,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Guinea-Bissau,GNB,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Guinea,GIN,..,..,..,..,..,..,..,..,..,..,..,52.4,..,..,37.77,..,..,..,60.87
+"Borrowed any money, male (% age 15+)",borrow.any.2,Mali,MLI,..,..,..,..,..,..,..,..,..,..,..,44.42,..,..,46.08,..,..,..,49.83
+"Borrowed any money, male (% age 15+)",borrow.any.2,Somalia,SOM,..,..,..,..,..,..,..,..,..,..,..,59.77,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Sudan,SDN,..,..,..,..,..,..,..,..,..,..,..,49.3,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,South Sudan,SSD,..,..,..,..,..,..,..,..,..,..,..,..,..,..,43.6,..,..,..,37.81
+"Borrowed any money, male (% age 15+)",borrow.any.2,Ethiopia,ETH,..,..,..,..,..,..,..,..,..,..,..,44.16,..,..,46.82,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,"Egypt, Arab Rep.",EGY,..,..,..,..,..,..,..,..,..,..,..,34.36,..,..,52.1,..,..,..,46.95
+"Borrowed any money, male (% age 15+)",borrow.any.2,Liberia,LBR,..,..,..,..,..,..,..,..,..,..,..,..,..,..,57.92,..,..,..,63.49
+"Borrowed any money, male (% age 15+)",borrow.any.2,Libya,LBY,..,..,..,..,..,..,..,..,..,..,..,..,..,..,60.05,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Tunisia,TUN,..,..,..,..,..,..,..,..,..,..,..,42.61,..,..,53.58,..,..,..,53.73
+"Borrowed any money, male (% age 15+)",borrow.any.2,Algeria,DZA,..,..,..,..,..,..,..,..,..,..,..,26.22,..,..,32.03,..,..,..,39.1
+"Borrowed any money, male (% age 15+)",borrow.any.2,Morocco,MAR,..,..,..,..,..,..,..,..,..,..,..,..,..,..,29.31,..,..,..,60.44
+"Borrowed any money, male (% age 15+)",borrow.any.2,Senegal,SEN,..,..,..,..,..,..,..,..,..,..,..,58.78,..,..,45.71,..,..,..,46.73
+"Borrowed any money, male (% age 15+)",borrow.any.2,"Gambia, The",GMB,..,..,..,..,..,..,..,..,..,..,..,..,..,..,33.66,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Ghana,GHA,..,..,..,..,..,..,..,..,..,..,..,37.94,..,..,43.01,..,..,..,56.74
+"Borrowed any money, male (% age 15+)",borrow.any.2,Togo,TGO,..,..,..,..,..,..,..,..,..,..,..,26.98,..,..,43.38,..,..,..,48.84
+"Borrowed any money, male (% age 15+)",borrow.any.2,Cote d'Ivoire,CIV,..,..,..,..,..,..,..,..,..,..,..,53.95,..,..,39.58,..,..,..,51
+"Borrowed any money, male (% age 15+)",borrow.any.2,Djibouti,DJI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Eritrea,ERI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Sierra Leone,SLE,..,..,..,..,..,..,..,..,..,..,..,61.92,..,..,53.13,..,..,..,55.93
+"Borrowed any money, male (% age 15+)",borrow.any.2,Niger,NER,..,..,..,..,..,..,..,..,..,..,..,71.15,..,..,55.89,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Nigeria,NGA,..,..,..,..,..,..,..,..,..,..,..,46.82,..,..,40.34,..,..,..,56.85
+"Borrowed any money, male (% age 15+)",borrow.any.2,Burkina Faso,BFA,..,..,..,..,..,..,..,..,..,..,..,46.61,..,..,56.62,..,..,..,50.09
+"Borrowed any money, male (% age 15+)",borrow.any.2,Sao Tome and Principe,STP,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Seychelles,SYC,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Madagascar,MDG,..,..,..,..,..,..,..,..,..,..,..,58.37,..,..,48.35,..,..,..,..
+"Borrowed any money, male (% age 15+)",borrow.any.2,Gabon,GAB,..,..,..,..,..,..,..,..,..,..,..,40.96,..,..,57.31,..,..,..,64.46
+"Borrowed any money, male (% age 15+)",borrow.any.2,Malawi,MWI,..,..,..,..,..,..,..,..,..,..,..,64.91,..,..,53.99,..,..,..,53.18
+"Borrowed any money, male (% age 15+)",borrow.any.2,Zambia,ZMB,..,..,..,..,..,..,..,..,..,..,..,69.09,..,..,54.32,..,..,..,64.97
+"Borrowed any money, male (% age 15+)",borrow.any.2,Comoros,COM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Data from database: Gender Statistics,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 10/30/2023,,,,,,,,,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Unit of measure,Periodicity,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,General comments,Notes from original source,License URL
+SG.HME.TRVL.EQ,CC BY-4.0,A woman can travel outside her home in the same way as a man (1=yes; 0=no),,The indicator measures whether there are restrictions on a woman traveling alone domestically.,"World Bank: Women, Business and the Law. https://wbl.worldbank.org/",Norms and Decision-making,,Annual,,"Women, Business and the Law tracks progress toward legal equality between men and women in 190 economies. Data are collected with standardized questionnaires to ensure comparability across economies. Questionnaires are administered to over 2,000 respondents with expertise in family, labor, and criminal law, including lawyers, judges, academics, and members of civil society organizations working on gender issues. Respondents provide responses to the questionnaires and references to relevant laws and regulations. The Women, Business and the Law team collects the texts of these codified sources of national law - constitutions, codes, laws, statutes, rules, regulations, and procedures - and checks questionnaire responses for accuracy. Thirty-five data points are scored across eight indicators of four or five binary questions, with each indicator representing a different phase of a woman’s career. Indicator-level scores are obtained by calculating the unweighted average of the questions within that indicator and scaling the result to 100. Overall scores are then calculated by taking the average of each indicator, with 100 representing the highest possible score.","The knowledge and analysis provided by Women, Business and the Law make a strong economic case for laws that empower women. Better performance in the areas measured by the Women, Business and the Law index is associated with more women in the labor force and with higher income and improved development outcomes. Equality before the law and of economic opportunity are not only wise social policy but also good economic policy. The equal participation of women and men will give every economy a chance to achieve its potential. Given the economic significance of women's empowerment, the ultimate goal of Women, Business and the Law is to encourage governments to reform laws that hold women back from working and doing business.","The Women, Business and the Law methodology has limitations that should be considered when interpreting the data. All eight indicators are based on standardized assumptions to ensure comparability across economies. Comparability is one of the strengths of the data, but the assumptions can also be limitations as they may not capture all restrictions or represent all particularities in a country. It is assumed that the woman resides in the economy's main business city. In federal economies, laws affecting women can vary by state or province. Even in nonfederal economies, women in rural areas and small towns could face more restrictive local legislation. Such restrictions are not captured by Women, Business and the Law unless they are also found in the main business city. The woman has reached the legal age of majority and is capable of making decisions as an adult, is in good health and has no criminal record. She is a lawful citizen of the economy being examined, and she works as a cashier in the food retail sector in a supermarket or grocery store that has 60 employees. She is a cisgender, heterosexual woman in a monogamous first marriage registered with the appropriate authorities (de facto marriages and customary unions are not measured), she is of the same religion as her husband, and is in a marriage under the rules of the default marital property regime, or the most common regime for that jurisdiction, which will not change during the course of the marriage. She is not a member of a union, unless membership is mandatory. Membership is considered mandatory when collective bargaining agreements cover more than 50 percent of the workforce in the food retail sector and when they apply to individuals who were not party to the original collective bargaining agreement. Where personal law prescribes different rights and obligations for different groups of women, the data focus on the most populous group, which may mean that restrictions that apply only to minority populations are missed. Women, Business and the Law focuses solely on the ways in which the formal legal and regulatory environment determines whether women can work or open their own businesses. The data set is constructed using laws and regulations that are codified (de jure) and currently in force, therefore implementation of laws (de facto) is not measured. The data looks only at laws that apply to the private sector. These assumptions can limit the representativeness of the data for the entire population in each country. Finally, Women, Business and the Law recognizes that the laws it measures do not apply to all women in the same way. Women face intersectional forms of discrimination based on gender, sex, sexuality, race, gender identity, religion, family status, ethnicity, nationality, disability, and a myriad of other grounds. Women, Business and the Law therefore encourages readers to interpret the data in conjunction with other available research.","For the reference period, WDI and Gender Databases take the data coverage years instead of reporting years used in WBL (https://wbl.worldbank.org/).  For example, the data for YR2020 in WBL (report year) corresponds to data for YR2019 in WDI and Gender Databases.",This is one of the 35 scored indicators.,https://datacatalog.worldbank.org/public-licenses#cc-by
+SH.HIV.ARTC.FE.ZS,CC BY-4.0,Antiretroviral therapy coverage (% of adult females living with HIV),,The percentage of adult females living with HIV who are receiving antiretroviral therapy.,UNAIDS estimates.,Health: Risk factors,,Annual,Weighted average,"Data on HIV are from the Joint United Nations Programme on HIV/AIDS (UNAIDS). Changes in procedures and assumptions for estimating the data and better coordination with countries have resulted in improved estimates of HIV and AIDS. For example, improved software was used to model the course of HIV epidemics and their impacts, making full use of information on HIV prevalence trends from surveillance data as well as survey data. The software explicitly includes the effect of antiretroviral therapy when calculating HIV incidence and models reduced infectivity among people receiving antiretroviral therapy, which is having a larger impact on HIV prevalence and allowing HIV-positive people to live longer. The software also allows for changes in urbanization over time - important because prevalence is higher in urban areas and because many countries have seen rapid urbanization over the past two decades.
+
+Antiretroviral therapy has led to huge reductions in death and suffering of people with advanced HIV infection. Standard antiretroviral therapy consists of the use of at least three antiretroviral drugs to maximally suppress HIV and stop the progression of HIV disease. Data are collected through three international monitoring and reporting processes: country responses to the WHO; research by the Interagency Task Team on Prevention of HIV Infection in Women, Mothers and their Children; and country report to UNAIDS through the United Nations General Assembly Special Session Declaration of Commitment on HIV/AIDS.",,The limited availability of data on health status is a major constraint in assessing the health situation in developing countries. Surveillance data are lacking for many major public health concerns. Estimates of prevalence and incidence are available for some diseases but are often unreliable and incomplete. National health authorities differ widely in capacity and willingness to collect or report information.,,,https://datacatalog.worldbank.org/public-licenses#cc-by
+SH.HIV.ARTC.MA.ZS,CC BY-4.0,Antiretroviral therapy coverage (% of adult males living with HIV),,The percentage of adult males living with HIV who are receiving antiretroviral therapy.,UNAIDS estimates.,Health: Risk factors,,Annual,Weighted average,"Data on HIV are from the Joint United Nations Programme on HIV/AIDS (UNAIDS). Changes in procedures and assumptions for estimating the data and better coordination with countries have resulted in improved estimates of HIV and AIDS. For example, improved software was used to model the course of HIV epidemics and their impacts, making full use of information on HIV prevalence trends from surveillance data as well as survey data. The software explicitly includes the effect of antiretroviral therapy when calculating HIV incidence and models reduced infectivity among people receiving antiretroviral therapy, which is having a larger impact on HIV prevalence and allowing HIV-positive people to live longer. The software also allows for changes in urbanization over time - important because prevalence is higher in urban areas and because many countries have seen rapid urbanization over the past two decades.
+
+Antiretroviral therapy has led to huge reductions in death and suffering of people with advanced HIV infection. Standard antiretroviral therapy consists of the use of at least three antiretroviral drugs to maximally suppress HIV and stop the progression of HIV disease. Data are collected through three international monitoring and reporting processes: country responses to the WHO; research by the Interagency Task Team on Prevention of HIV Infection in Women, Mothers and their Children; and country report to UNAIDS through the United Nations General Assembly Special Session Declaration of Commitment on HIV/AIDS.",,The limited availability of data on health status is a major constraint in assessing the health situation in developing countries. Surveillance data are lacking for many major public health concerns. Estimates of prevalence and incidence are available for some diseases but are often unreliable and incomplete. National health authorities differ widely in capacity and willingness to collect or report information.,,,https://datacatalog.worldbank.org/public-licenses#cc-by
+borrow.any,CC BY-4.0,Borrowed any money (% age 15+),The percentage of respondents who report borrowing any money (by themselves or together with someone else) for any reason and from any source in the past year.,The percentage of respondents who report borrowing any money (by themselves or together with someone else) for any reason and from any source in the past year.,Global Findex database,Assets,Percent,Triennial,Weighted average,,,,Time series variables,,https://datacatalog.worldbank.org/public-licenses#cc-by
+borrow.any.1,CC BY-4.0,"Borrowed any money, female (% age 15+)","The percentage of respondents who report borrowing any money (by themselves or together with someone else) for any reason and from any source in the past year, female (% age 15+)","The percentage of respondents who report borrowing any money (by themselves or together with someone else) for any reason and from any source in the past year, female (% age 15+)",Global Findex database,Assets,Percent,Triennial,Weighted average,,,,Time series variables,,https://datacatalog.worldbank.org/public-licenses#cc-by
+borrow.any.2,CC BY-4.0,"Borrowed any money, male (% age 15+)","The percentage of respondents who report borrowing any money (by themselves or together with someone else) for any reason and from any source in the past year, male (% age 15+)","The percentage of respondents who report borrowing any money (by themselves or together with someone else) for any reason and from any source in the past year, male (% age 15+)",Global Findex database,Assets,Percent,Triennial,Weighted average,,,,Time series variables,,https://datacatalog.worldbank.org/public-licenses#cc-by
