@@ -117,6 +117,19 @@ my_crs <- "+init=epsg:31467"
 my_raster@crs <- sp::CRS(my_crs)
 writeRaster(my_raster, filename = "Data/DWD_Temp.tif")
 rm(my_raster)
+
+# Start from here:
+library(terra)
+library(sf)
+library(tidyverse)
+library(dplyr)
+library(gridExtra)
+library(ggspatial)
+library(tidyterra)
+library(stars)
+library(RColorBrewer)
+library(ggplot2)
+
 my_raster <- terra::rast("Data/DWD_Temp.tif")
 # optional to check the structure
 # my_raster
@@ -152,14 +165,6 @@ rasterComp <- rasterComp/10
 # Calculate mean temperature between 1961 and 1990
 rasterHist_mean <- mean(rasterHist)
 
-#library(RStoolbox)
-library(gridExtra)
-library(ggspatial)
-library(tidyterra)
-library(stars)
-library(RColorBrewer)
-library(ggplot2)
-
 maxVal <- max(c(unique(values(rasterComp)),unique(values(rasterHist_mean))),na.rm=T)
 minVal <- min(c(unique(values(rasterComp)),unique(values(rasterHist_mean))),na.rm=T)
 
@@ -193,7 +198,7 @@ p2 <- ggplot()+
   xlab("")+
   ylab("")
 
-pdf("August_mean_vs_2018.pdf", width = 14, height = 8)
+pdf("Out/DWD_script/August_mean_vs_2018.pdf", width = 14, height = 8)
 grid.arrange(p1, p2, ncol=2)
 dev.off()
 
@@ -236,7 +241,7 @@ p3 <- ggplot()+
   ylab("")
 
 
-pdf("August_mean_vs_2018_vs_diff.pdf", width = 20, height = 8)
+pdf("Out/DWD_script/August_mean_vs_2018_vs_diff.pdf", width = 20, height = 8)
 grid.arrange(p1, p2, p3, ncol=3)
 dev.off()
 
@@ -268,7 +273,7 @@ for (i in 1:length(my_years)){
 # my_df
 
 # Plot resulting dataframe and perform a regression analysis to display a trend line
-pdf("timeseries_mean_temp.pdf",width=15,height=8)
+pdf("Out/DWD_script/timeseries_mean_temp.pdf",width=15,height=8)
 ggplot(my_df, aes(x=Year, y=Mean_Temp))+
   geom_point(size=2)+
   geom_line()+
@@ -282,24 +287,37 @@ dev.off()
 # split by region and see what the differences are
 # #########
 
-# plot(my_raster,1)
-
 # download boundary data
 library(rnaturalearth)
+library(rnaturalearthdata)
+library(raster)
+#rnaturalearth::ne_download(scale = 50, type = "GADM", country = "DEU")
 bnd <- raster::getData("GADM", country='DEU', level=1)
-ne_countries(country = "Germany", returnclass = "sf", type = "tiny_countries")
-bnd.utm <- spTransform(bnd, CRS(proj4string(my_raster)))
+#ne_countries(type = "GADM", country = "Germany", returnclass = "sf", type = "tiny_countries")
+
+sf_bnd <- as(bnd, "sf")
+bnd_trans <- st_transform(sf_bnd,31467)
+
+masked <- mask(rasterHist_mean, bnd_trans[bnd_trans$NAME_1 == "Bayern",])
+
+i = 1
+bnd_trans$mean_val <- c()
+for (b in 1:nrow(bnd_trans)){
+  bdl <- bnd_trans$NAME_1[b]
+  m <- mask(rasterHist_mean, bnd_trans[bnd_trans$NAME_1 == bdl,])
+  bnd_trans$mean_val[b] <- mean(m[,,1], na.rm = T)
+}
+pdf("Out/DWD_script/Mean_per_Bundesland.pdf",width=15,height=8)
+ggplot(data = bnd_trans, aes(fill = bnd_trans$mean_val))+
+  geom_sf(color = NA)+
+  scale_fill_gradientn("Mean Temperature [degC]", colours = brewer.pal(9, 'YlOrBr'))
+dev.off()
 
 # visual check
-# plot(bnd.utm,add=T)
-
-bnd.utm.by <- bnd.utm[bnd.utm$NAME_1=="Bayern",]
-
-# visual check
-# plot(my_raster,1)
-# plot(bnd.utm.by,add=T)
 
 # crop and mask the data
+bnd.utm <- spTransform(bnd, CRS(proj4string("+init=epsg:31467")))
+bnd.utm.by <- bnd_trans[bnd_trans$NAME_1=="Bayern",]
 my_raster.by <- crop(my_raster, bnd.utm.by)
 my_raster.by <- mask(my_raster.by, bnd.utm.by)
 
@@ -309,8 +327,7 @@ plot(my_raster.by,1)
 # For-loop calculating mean of each raster and save it in data.frame
 for (i in 1:length(my_years)){
   current_layer <- my_raster.by[[i]]
-  # current_mean <- mean(current_layer@data@values, na.rm=T)
-  current_mean <- mean(getValues(current_layer), na.rm=T)
+  current_mean <- mean(current_layer[,,1], na.rm=T)
   my_df[i,2] <- current_mean/10
   rm(current_layer, current_mean, i)
 }
@@ -319,7 +336,7 @@ for (i in 1:length(my_years)){
 my_df
 
 # Plot resulting dataframe and perform a regression analysis to display a trend line
-pdf("timeseries_mean_temp_BY.pdf",width=15,height=8)
+pdf("Out/DWD_script/timeseries_mean_temp_BY.pdf",width=15,height=8)
 ggplot(my_df, aes(x=Year, y=Mean_Temp))+
   geom_point(size=2)+
   geom_line()+
