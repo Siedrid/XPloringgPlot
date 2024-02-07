@@ -14,8 +14,6 @@ library(ggplot2)
 library(reshape)
 library(gpx)
 
-load("Data/Rayshader_animate/el_mat.RData")
-
 import_hike <- function(link){
   gpx <- htmlTreeParse(file = link, useInternalNodes = TRUE)
   coords <- xpathSApply(doc = gpx, path = "//trkpt", fun = xmlAttrs)
@@ -28,13 +26,43 @@ import_hike <- function(link){
   return(hike.sf)
 }
 
+get_video_indeces <- function(time_data = c(), number_of_screens = 8) {
+  stopifnot(length(time_data) > 20)
+  time_distance <- max(time_data) - min(time_data)
+  avg_time_step <- time_distance/length(time_data)
+  
+  index_from <- 1
+  index_to <- 2 
+  all_indeces <- c(index_from)
+  
+  while(index_to < length(time_data) && index_to > index_from) {
+    while(
+      
+      if(index_to >= length(time_data)){
+        FALSE
+      } else {
+        (time_data[index_to] - time_data[index_from]) < time_distance/number_of_screens
+      }
+    ) {
+      index_to <- index_to + 1
+    }
+    all_indeces <- c(all_indeces, index_to)
+    index_from <- index_to
+    index_to <- index_to + 1
+  }
+  return(all_indeces)
+}
+
 
 zugspitze <- c(47.419857, 10.983788)
-ex_zugspitze <- ext(zugspitze[2]-0.1, zugspitze[2]+0.1, zugspitze[1]-0.2, zugspitze[1]+0.2)
+ex_zugspitze <- ext(zugspitze[2]-0.05, zugspitze[2]+0.1, zugspitze[1]-0.05, zugspitze[1]+0.05)
 Austria <- giscoR::gisco_get_countries(country = c("Germany", "Austria")) %>% st_crop(., ex_zugspitze)
 el_Austria <- elevatr::get_elev_raster(Austria, z = 12, clip = "locations")
-writeRaster(el_Austria, "Data/Rayshader_animate/DEM_Zugspitze.tif")
-el_Austria <- terra::rast("Data/Rayshader_animate/DEM_Zugspitze.tif")
+plot(el_Austria)
+writeRaster(el_Austria, "Data/Rayshader_animate/DEM_Zugspitze_05.tif")
+
+
+el_Austria <- terra::rast("Data/Rayshader_animate/DEM_Zugspitze_05.tif")
 plot(el_Austria)
 
 matrix <- raster_to_matrix(el_Austria)
@@ -43,49 +71,10 @@ matrix <- raster_to_matrix(el_Austria)
 link <- "Data/gpx/Höllental.gpx"
 hike_höllental <- import_hike(link)
 komoot_link <- "https://www.komoot.de/tour/56376593"
-# add points of interests
 
-
-# Dynaimcally set window height and width based on object size
-w <- nrow(matrix)
-h <- ncol(matrix)
-
-# Scale the dimensions so we can use them as multipliers
-wr <- w / max(c(w,h))
-hr <- h / max(c(w,h))
-
-# Limit ratio so that the shorter side is at least .75 of longer side
-if (min(c(wr, hr)) < .75) {
-  if (wr < .75) {
-    wr <- .75
-  } else {
-    hr <- .75
-  }
-}
-
-# add hikes to map
-matrix %>% 
-  height_shade() %>%
-  add_water(detect_water(matrix), color = "desert") %>%
-  add_shadow(ray_shade(matrix), 0.5) %>%
-  plot_3d(matrix,
-          solid=FALSE , 
-          zscale = 10, 
-          fov = 0, theta = 30, zoom = 0.8, 
-          phi = 45, 
-          windowsize = c(1000*wr, 1000*hr)
-  )
-
-render_path(extent = ex_zugspitze, 
-            lat = st_coordinates(hike_höllental)[,2], long = st_coordinates(hike_höllental)[,1], 
-            color="white", antialias=TRUE, heightmap=matrix, zscale=10, linewidth=2)
-
-render_label(matrix, x = 220, y = 120, z = 1500, zscale = 10,
-             text = "Zugspitze", textsize = 2*wr, linewidth = 2)
 
 # Animation with ggplot
 
-gpx_file_loc <- system.file("Data/gpx/Höllental.gpx")
 gpx_zugspitze <- read_gpx(link)
 hike_zugspitze <- gpx_zugspitze$tracks[[1]]
 
@@ -95,7 +84,7 @@ rst_df <- cbind.data.frame(
   values(el_Austria))
 
 my_plot <- ggplot()+
-  geom_raster(data = rst_df, aes(x = x, y=y, fill = DEM_Zugspitze))+
+  geom_raster(data = rst_df, aes(x = x, y=y, fill = DEM_Zugspitze_05))+
   scale_alpha(range = c(1,0), na.value = 0)+
   scale_x_continuous("Longitude") +
   
@@ -110,6 +99,7 @@ plot_gg(my_plot, shadow_intensity = 0.7, width = 5, height = 5,
 # with Animation ----
 
 # calculate rel Speed
+number_of_scenes = 25
 hike_zugspitze$rel_speed <- c(0,
                # Calculate a distance by sqrt((long1 - long2) ^ 2 + (lat1 - lat2)^2) distance
                apply(diff(as.matrix(hike_zugspitze[, c("Longitude", "Latitude")])), 1, function(x){
@@ -119,10 +109,11 @@ hike_zugspitze$rel_speed <- c(0,
                  diff(as.matrix(hike_zugspitze$Time)))
 
 video_indeces <- get_video_indeces(time_data = hike_zugspitze$Time,
-                                   number_of_screens = 10)
+                                   number_of_screens = number_of_scenes)
 zoom_scale <- 0.5 + 0.5 * 1/(1 + exp(seq(-5, 5, length.out = length(video_indeces))))
 #theta_angles <- rev(30 - 50 * 1/(1 + exp(seq(-5, 6, length.out = length(video_indeces)))))
 theta_angles <- seq(140, 100, length.out = length(video_indeces))
+
 for (video_index in 1:length(video_indeces)) {
   
   if (video_index == 1) {
@@ -132,7 +123,7 @@ for (video_index in 1:length(video_indeces)) {
   vid_indx <- video_indeces[video_index]
   
   my_plot <- ggplot() +
-    geom_raster(data = rst_df, aes(x = x, y=y, fill = DEM_Zugspitze))+
+    geom_raster(data = rst_df, aes(x = x, y=y, fill = DEM_Zugspitze_05))+
     
     scale_y_continuous("Latitude", expand = c(0,0)) +
     scale_fill_gradientn("Elevation", colours = colorspace::terrain_hcl(12)) +
@@ -154,14 +145,14 @@ for (video_index in 1:length(video_indeces)) {
                           shadow_mat
                         },
                         save_shadow_matrix = TRUE, raytrace = TRUE)
-  render_snapshot(filename = file.path("Out/Snapshots/", paste0("Zugspitze_", video_index, ".png")), clear = TRUE)
+  render_snapshot(filename = file.path("Out/Snapshots_v2/", paste0("Zugspitze_", sprintf("%02d",video_index), ".png")), clear = TRUE)
 }
 
-video_files <- list.files("Out/Snapshots/", pattern = "Zugspitze", full.names = T)
+video_files <- list.files("Out/Snapshots_v2/", pattern = "Zugspitze", full.names = T)
 
 if (make_gif) {
   images <- magick::image_read(video_files) 
   animation <- magick::image_animate(images, fps = 1, optimize = TRUE)
-  magick::image_write(animation, "Out/Hike_zugspitze_v1.gif")
+  magick::image_write(animation, "Out/Hike_zugspitze_v2.gif")
   return(paste0(output_file_loc, ".gif"))
 }
